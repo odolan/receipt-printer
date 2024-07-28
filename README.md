@@ -6,9 +6,9 @@ This repository contains a code snippet used to access and print to an EPSON_TM_
 
 ## How to Use
 
-1. Ensure your EPSON_TM_T20II printer is properly connected and configured.
-2. Follow the steps in the video to implement the code snippet in your project.
-3. Run your code to print a test receipt.
+1. Ensure your EPSON_TM_T20II printer is properly connected and configured. (look into installing drivers)
+2. Note that the code included is just a snippet to connect and output to the printer and does not include other functionality shown in the video
+3. I am saving images in the .JPG format. I have not tested other formats
 
 ## Purchase the Printer
 
